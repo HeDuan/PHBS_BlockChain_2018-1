@@ -4,7 +4,7 @@ As if to further testify humans’ infinite affection for cats, in late 2017, Cr
 
 Therefore, in this business review, I would investigate this business in detail, and also look at non-fungible tokens at large. 
 
-## CrypoKitties: An Overview
+## CryptoKitties: An Overview
 On the official website, the project of CryptoKitties is defined in such sentences: “In CryptoKitties, users collect and breed oh-so-adorable creatures that we call CryptoKitties! Each kitty has a unique genome that defines its appearance and traits. Players can breed their kitties to create new furry friends and unlock rare [cattributes] (https://www.cryptokitties.co/about)”. The users do not actually have any CrypoKitties in physical form but only “own” the token in the blockchain. And unlike cryptocurrencies that have identical units, each CryptoKitty is unique to the owner and its uniqueness is where it got its value from. Besides, CryptoKitties is an active community in which users can create new collectibles and trade them with each other on Ethereum.
 
 At launch, 50,000 “Gen 0” cats (also known as “Clock Cats”) are stored in a smart contract on the Ethereum blockchain. Every fifteen minutes, a cat would be distributed through smart contract, and each of those cats are sold by auction.
