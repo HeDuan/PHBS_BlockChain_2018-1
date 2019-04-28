@@ -1,4 +1,5 @@
 # PHBS_BlockChain_2018
+# CryptoKitties and Non-Fungible Tokens: A Business Review
 As if to further testify humans’ infinite affection for cats, in late 2017, CryptoKitties, an Ethereum-based kitty-breeding game enchanted so many people in just a few days after its launch that it once clogged the Ethereum network and delayed the processing of transactions. The hype about CryptoKitties introduced many into the realm of Blockchain and presented another possibility of Blockchain application: digital assets as non-fungible tokens (NFTs), used for people’s collecting proclivity. However, all the hype over this brand-new game waned gradually, posing question on whether this application of Ethereum can sustain any longer. 
 
 Therefore, in this business review, I would investigate this business in detail, and also look at non-fungible tokens at large. 
@@ -79,18 +80,16 @@ Also, [this website](https://forum.nftgecko.com/t/list-of-all-non-fungible-token
 ## Evolution of CrytoKitties’ Popularity
 CryptoKitties was an instant hit: on December 5, 2017, just one week after its launch, it had roughly 60k registered users, 100k existing cats, 5M USD in transactions processed and made up for 25% of the Ethereum traffic. In January 2018, it hits 250,000 users and one month later it has more than 500 thousand cats on the network. Later in March, it received [VC funding](https://www.coindesk.com/a16z-leads-12-million-funding-for-ethereum-app-cryptokitties) of $12M from Andreessen Horowitz and Union Square Ventures 
 
-December 2017 was when people were most obsessed with CryptoKitties. In the below graph by [Bloxy](https://bloxy.info/token_stat/0x06012c8cf97bead5deae237070f9587f8e7a266d), it can be seen that CryptoKitties’ transfer amount peaked in December 2017 and has become relatively stable at 200,000 ever since.
+December 2017 was when people were most obsessed with CryptoKitties. In the below graph by [Bloxy](https://bloxy.info/token_stat/0x06012c8cf97bead5deae237070f9587f8e7a266d), it can be seen that CryptoKitties’ transfer amount peaked in December 2017 and has become relatively stable at 200,000 ever since. Also, Google Trends tells us that the search interest in “cryptokitties” quickly declined after reaching peak at November 2017. Interestingly, Google Trends also shows that China is the country with the most search interest in CrypoKitties.
 
 ![Token Amount](https://github.com/shepardzhang/PHBS_BlockChain_2018/blob/master/Pictures/13.png)
+![Google Trends](https://github.com/shepardzhang/PHBS_BlockChain_2018/blob/master/Pictures/17.png)
+![Google Trends_1](https://github.com/shepardzhang/PHBS_BlockChain_2018/blob/master/Pictures/16.png)
 
 A lot of [media](http://fortune.com/2018/06/18/cryptokitties/) dismiss this swift decline in popularity as a bubble burst and this whole idea of NFT would fail. However, a closer look at the data would give us another story. The below two graphs shows that after the December frenzy in 2017, the transaction volume has been stable while more NFT applications appear on the market and are gaining a substantial amount of user base. This is an indication that people do not lose interest in collectibles and NFTs, but rather have become mature in their transactions and flock to a wider variety of NFT services, with the pure onlookers leaving the platform.
 
 ![Transaction Volume](https://github.com/shepardzhang/PHBS_BlockChain_2018/blob/master/Pictures/14.png)
 ![User Base](https://github.com/shepardzhang/PHBS_BlockChain_2018/blob/master/Pictures/15.png)
-
-Also, Google Trends tells us that the search interest in “cryptokitties” has not gone through that much of a decline after December 2017 and this search term is still relevant today. Interestingly, Google Trends also shows that China is the country with the most search interest in CrypoKitties.
-
-![Google Trends](https://github.com/shepardzhang/PHBS_BlockChain_2018/blob/master/Pictures/17.png)
 
 As people’s interest in NFTs still persists, what can be the future for NFTs? This would be discussed in the next section.
 
