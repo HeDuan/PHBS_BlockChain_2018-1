@@ -4,6 +4,27 @@ As if to further testify humans’ infinite affection for cats, in late 2017, Cr
 
 Therefore, in this business review, I would investigate this business in detail, and also look at non-fungible tokens at large. 
 
+## A Short Review of Collectibles
+Before we jump into the analysis of CryptoKitties, it is necessary to answer this question: how come this business can ever exist, or in other words, why people would like to own such digital assets at all. It turns out that we all have penchant for collecting things, so in order to understand this business better, it is beneficial to briefly review the concept of collectibles. Back in 2002, a cryptocurrency expert Nick Szabo commented on humans’ collection habit:
+
+> Practically all human cultures, even those that do not engage in substantial trade or that use more modern forms of money, make and enjoy jewelry, and value certain objects more for their artistic or heirloom qualities than for their utility. We humans collect necklaces of shells and other kinds of jewelry – for the sheer enjoyment of it. For the evolutionary psychologists an explanation that humans do something for "the sheer enjoyment of it" is not an explanation at all – but the posing of a problem. Why do so many people find the collection and wearing of jewelry enjoyable? For the evolutionary psychologist, this question becomes – what caused this pleasure to evolve? (Szabo, 2002).
+
+Szabo argues that the reason behind humans’ collecting instinct is that rare art collectibles served as the trading objects among different tribes in ancient times, so the earliest money were mostly heirlooms and jewelry. As Szabo continues to write:
+> The use of these is so ancient that the desires to explore, collect, make, display, appraise, 
+carefully store, and trade collectibles are human universals – to some extent instincts. 
+This constellation of human desires might be called the collecting instinct. (Szabo, 2002).
+
+In psychology literature, scholars have comprehensively analyzed why people collect. According to McIntosh and Schmeichel (2004), there are four types of collectors:
+
+> 1. Passionate collectors, who are obsessive and emotional. They will pay any price for the right item (see also Belk, 1991Belk, R. W. 1991. The ineluctable mysteries of possessions. Journal of Social Behavior and Personality, 6: 17–55. [Google Scholar], on irrational aspects of collecting behavior).
+> 2. Inquisitive collectors, who see collecting as an investment.
+> 3. The hobbyist, who collects purely for enjoyment.
+> 4. Expressive collectors, who collect as a statement of who they are. These types suggest some overt motivations for collecting: profit, the emotional thrill of acquisition (intense but short-lived positive affect), pleasure (mild but consistent positive affect), and self expression or aggrandizement. (McIntosh and Schmeichel, 2001)
+
+Also, Pearce (1992) summarizes 17 motivations for collecting: leisure, aesthetics, competition, risk, fantasy, a sense of community, prestige, domination, sensual gratification, sexual foreplay, desire to reframe objects, the pleasing rhythm of sameness and difference, ambition to achieve perfection, extending the self, reaffirming the body, producing gender identity, and achieving immortality. It is obvious that nearly all of these motivations involve self-fulfilling or self-enrichment demands.
+
+Therefore, as one of humans’ instinctive desires, collectibles could withstand the passage of time and remain valuable. But not all collectibles would succeed, as it is dependent on the platform’s planning and operations to keep and grow its collectibles’ appeal. Thus, we need to take a deep look into CryptoKitties as a business.
+
 ## CryptoKitties: An Overview
 On the official website, the project of CryptoKitties is defined in such sentences: “In CryptoKitties, users collect and breed oh-so-adorable creatures that we call CryptoKitties! Each kitty has a unique genome that defines its appearance and traits. Players can breed their kitties to create new furry friends and unlock rare [cattributes] (https://www.cryptokitties.co/about)”. The users do not actually have any CrypoKitties in physical form but only “own” the token in the blockchain. And unlike cryptocurrencies that have identical units, each CryptoKitty is unique to the owner and its uniqueness is where it got its value from. Besides, CryptoKitties is an active community in which users can create new collectibles and trade them with each other on Ethereum.
 
@@ -63,10 +84,12 @@ So, how high are people willing to pay for a CryptoKitty? A [website](https://ki
 * The third most expensive purchase involves [Fluffy Founder](https://www.cryptokitties.co/kitty/4) traded for 247 ETH on December 7, 2017 as well. Its value comes from being one of the founding cats and also its Fluffy tail and a wise man’s eyebrows which appear for the first time among all cats.
 ![Fluffy Founder](https://github.com/shepardzhang/PHBS_BlockChain_2018/blob/master/Pictures/11.png)
 
+From those high price transactions, we can see that people are really willing to pay generously for the CryptoKitties even if we are not totally sure how that comes about. Thus, CryptoKitties are valuable to many people and they are indeed a well-established set of collectibles instead of useless objects as some might argue.
+
 ## Revenue Model and Business Advantages
 CryptoKitties generates revenue by charging 3.75% of each transaction on the marketplace. Also, it receives revenue from sales of cats, which are limited to the 50000 cats predetermined in the white paper.
 
-As the developers are clearly aware of the lack of knowledge of users, they adopt concise and clear layout and streamline the actions as straightforward as possible. They also choose a universally beloved animal – cat as the core subject, with colorful palettes, glamorous attributes (“cattributes”) and cheeky description. Beyond Blockchain experts, their target market is actually the general public, which is much different from its peer companies at time of initiation. As smart contract codes cannot be changed after launch, they carefully test CryptoKitties’ mechanics before officially setting it off.
+As the developers are clearly aware of the lack of knowledge of users, they adopt concise and clear layout and streamline the actions as straightforward as possible. They also choose a universally beloved animal – cat as the core subject, with colorful palettes, glamorous attributes (“cattributes”) and cheeky description. The adorable looks of those cats excite affection and warmth, which brings aesthetic and emotional value to the owners, and the mutation and breeding mechanism would create the sense of unexpectedness and ecstasy. Beyond Blockchain experts, CryptoKitties' target market is the whole public, which is much different from its peer companies at time of initiation. As smart contract codes cannot be changed after launch, they carefully test CryptoKitties’ mechanics before officially setting it off.
 
 Unlike non-Blockchain collectibles, CryptoKitties’s greatest advantage is that it does not have any central authority, whose existence would be a prerequisite for the collectibles’ value in non-Blockchain platforms. Also, as collectibles’ value largely depends on rarity and peculiarity, a central authority might not refrain from issuing more and more collectibles, diluting the value of current outstanding assets, while CryptoKitties does not have this problem at all because the supply is predetermined in the smart contract.
 
@@ -108,3 +131,13 @@ We can witness the evolution of transaction volume and active addresses of NFTs 
 ![Addresses](https://github.com/shepardzhang/PHBS_BlockChain_2018/blob/master/Pictures/19.png)
 
 However, as the white paper of CryptoKitties contends, two issues are still impeding the real success of Non-Fungible Tokens and all other Blockchain applications: the public’s lack of knowledge of Blockchain technologies and their mistrust sewn by abuses of ICO. They result in a shortfall of real meaningful innovations. In order for CryptoKitties and NFT projects to become real success, developers and businesspeople need to think of real solutions to promote this technology and engage a wider public.
+
+## Conclusion
+Collectibles are special to humans as it had played the role of common currency in ancient times and has been essential to humans’ enjoyment and self-enhancement. Thanks to blockchain, digital collectibles are on the rise and people now have ways to secure their ownership without authentication from a centralized party. CryptoKitties is a good example of NFT game, as its collectibles are indeed valuable to people for the appearance and well-crafted gene and mutation mechanics. And it also has an active community where people discuss the breeding and trading of crypto cats. Even though the hype over CryptoKitties are no longer present since 2017, non-fungible tokens have been gaining a wider audience with more applications being launched and accepted by the public, which can be shown in the growing user base and transaction volume. In the future, there can be a lot of real world use cases of NFTs which can be useful in any scenario that involves mutually distinct objects and requires decentralized validation of ownership. As a major crypto asset class besides cryptocurrencies, NFTs are expected to perform more functions if the technology keeps improving and the public accept them more.
+
+## References
+1.	CryptoKitties. (2019). CryptoKitties: Collectible and Breedable  Cats Empowered by Blockchain	Technology: White Pa-Purr.
+2.	NonFungible.com. (2019). Non-Fungible Tokens Yearly Report 2018.
+3.	NFT.NYC. (2019). Non-Fungible Tokens 101 Guide.
+4.	Pearce, S. M. (1992). Museums, objects, and collections: A cultural study, Leicester: Leicester University Press.
+5.	McIntosh, W.D., and SCHMEICHEL, B. (2004) Collectors and Collecting: A Social Psychological Perspective, Leisure Sciences, 26:1, 85-97, DOI: 10.1080/01490400490272639
