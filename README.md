@@ -136,9 +136,9 @@ However, as the white paper of CryptoKitties contends, two issues are still impe
 Collectibles are special to humans as it had played the role of common currency in ancient times and has been essential to humans’ enjoyment and self-enhancement. Thanks to blockchain, digital collectibles are on the rise and people now have ways to secure their ownership without authentication from a centralized party. CryptoKitties is a good example of NFT game, as its collectibles are indeed valuable to people for the appearance and well-crafted gene and mutation mechanics. And it also has an active community where people discuss the breeding and trading of crypto cats. Even though the hype over CryptoKitties are no longer present since 2017, non-fungible tokens have been gaining a wider audience with more applications being launched and accepted by the public, which can be shown in the growing user base and transaction volume. In the future, there can be a lot of real world use cases of NFTs which can be useful in any scenario that involves mutually distinct objects and requires decentralized validation of ownership. As a major crypto asset class besides cryptocurrencies, NFTs are expected to perform more functions if the technology keeps improving and the public accept them more.
 
 ## References
-1.CryptoKitties. (2019). CryptoKitties: Collectible and Breedable  Cats Empowered by Blockchain	Technology: White Pa-Purr.
-2.NonFungible.com. (2019). Non-Fungible Tokens Yearly Report 2018.
-3.NFT.NYC. (2019). Non-Fungible Tokens 101 Guide.
-4.Pearce, S. M. (1992). Museums, objects, and collections: A cultural study, Leicester: Leicester University Press.
-5.Szabo, Nick. (2002). Shelling Out: The Origins of Money. Retrieved from https://nakamotoinstitute.org. 
-6.McIntosh, W.D., and SCHMEICHEL, B. (2004) Collectors and Collecting: A Social Psychological Perspective, Leisure Sciences, 26:1, 85-97, DOI: 10.1080/01490400490272639
+1. CryptoKitties. (2019). CryptoKitties: Collectible and Breedable  Cats Empowered by Blockchain	Technology: White Pa-Purr.
+2. NonFungible.com. (2019). Non-Fungible Tokens Yearly Report 2018.
+3. NFT.NYC. (2019). Non-Fungible Tokens 101 Guide.
+4. Pearce, S. M. (1992). Museums, objects, and collections: A cultural study, Leicester: Leicester University Press.
+5. Szabo, Nick. (2002). Shelling Out: The Origins of Money. Retrieved from https://nakamotoinstitute.org. 
+6. McIntosh, W.D., and SCHMEICHEL, B. (2004) Collectors and Collecting: A Social Psychological Perspective, Leisure Sciences, 26:1, 85-97, DOI: 10.1080/01490400490272639
